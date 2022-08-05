@@ -19,3 +19,5 @@ as possible.
 Lastly, labels #8 and #7 are examples of nodes that could be
 tested using the multimeter's probes. Any electrical connection
 on a breadboard is fair game!
+
+![DigitalMultimeter thumbnail](https://user-images.githubusercontent.com/34201673/183144333-6f0fd560-8280-4010-90cb-02ff42fcd7bb.png)
