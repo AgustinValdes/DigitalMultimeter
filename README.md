@@ -1,4 +1,4 @@
-# DigitalMultimeter
+# Digital Multimeter
 
 Starting with the first label, we have the numeric output itself. I
 opted for a four-digit display to keep the form factor as small as
